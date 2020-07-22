@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "I'm switching over to consulting"
 date:   2020-07-22 15:30:00 -0400
 categories: career consulting
