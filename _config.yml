@@ -47,9 +47,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Connor's Thoughts"
+title                    : "Copernicus"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Putting DevOps at the center of your organization"
 name                     : "Connor"
 description              : "Ramblings as I stumble through my career"
 url                      : "https://connorgraham.github.io"
@@ -130,35 +130,34 @@ author:
   location         : "Canada"
   email            : "connormwg@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:connormwg@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/connormwg"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/connormwg/"
-    - label: "GitHub"
+    - label: "connormwg"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/connormwg/"
+    - label: "connormwg"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ConnorGraham"
+    - label: "connormwg"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/connormwg"
+    - label: "connormwg@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:connormwg@gmail.com"
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:connormwg@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/connormwg"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/connormwg/"
-    - label: "GitHub"
+    - label: "connormwg"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/connormwg/"
+    - label: "connormwg"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ConnorGraham"
-
+    - label: "connormwg"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/connormwg"
+    - label: "connormwg@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:connormwg@gmail.com"
 
 
 # Reading Files
