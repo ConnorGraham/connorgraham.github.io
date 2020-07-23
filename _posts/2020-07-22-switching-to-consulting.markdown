@@ -3,6 +3,7 @@ layout: single
 title:  "I'm switching over to consulting"
 date:   2020-07-22 15:30:00 -0400
 categories: career consulting
+comments: true
 ---
 After several years as a DevOps Engineer in an enterprise environment, I've decided to switch over to consulting. I've landed a job offer with a US based consultancy and because of my Canadian citizenship/residence I have to set myself up as an independent contractor with this change. Below are my thoughts:
 
