@@ -43,13 +43,13 @@ remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Copernicus"
+title                    : "Connor's Blog"
 title_separator          : "-"
-subtitle                 : "Putting DevOps at the center of your organization"
+subtitle                 : "Putting DevOps at the center of your organization and some other stuff"
 name                     : "Connor"
 description              : "Ramblings as I stumble through my career"
 url                      : "https://connorgraham.github.io"
@@ -125,18 +125,18 @@ analytics:
 # Site Author
 author:
   name             : "Connor Graham"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "DevOps Consultant"
+  avatar           : "/assets/images/connor.png"
+  bio              : "Father, Craft Beer, Personal Finance, DevOps Consultant"
   location         : "Canada"
   email            : "connormwg@gmail.com"
   links:
-    - label: "connormwg"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/connormwg/"
-    - label: "connormwg"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ConnorGraham"
-    - label: "connormwg"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/connormwg"
 
@@ -152,10 +152,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/connormwg"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:connormwg@gmail.com"
-
 
 # Reading Files
 include:
@@ -225,7 +221,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto
 
 
 # Plugins (previously gems:)
