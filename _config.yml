@@ -116,10 +116,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-173397054-1"
+    anonymize_ip         : false
 
 
 # Site Author
@@ -139,9 +139,6 @@ author:
     - label: "connormwg"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/connormwg"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:connormwg@gmail.com"
 
 # Site Footer
 footer:

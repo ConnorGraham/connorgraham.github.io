@@ -14,6 +14,7 @@ In Ontario, we have OHIP that covers hospital and family doctor visits, but I'll
 * Travel insurance
 * Retirement Contributions
 * Unemployment insurance
+
 Fortunately, the increase in raw compensation helps offset some of these costs and I can get creative with some others. (I'm looking at you [TD First Class Travel Visa Infinite](https://www.td.com/ca/en/personal-banking/products/credit-cards/travel-rewards/first-class-travel-visa-infinite-card/))
 
 #### Expensing Purchases
